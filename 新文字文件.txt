@@ -1,0 +1,18 @@
+Push to git:
+
+Create a repo in github
+
+git init
+
+git add Procfile
+
+git add .\requirements.txt
+
+git add .\chatbot.py
+
+(git commit -m 'a')
+
+git remote add origin https://github.com/Ching-gg/lab5.git
+
+
+git push origin main
